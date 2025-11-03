@@ -70,4 +70,4 @@ ChatGPT melakukan self-assessment UTS-1 s.d. UTS-4 dari isi halaman yang halaman
 
 3. **Perbarui UTS-1 (All About Me)** dengan pembuka berupa anekdot pribadi yang menggambarkan nilai diri dan refleksi singkat tentang perjalanan menemukan jati diri.
 
-4. **Tambahkan bagian refleksi pendek di akhir UTS-5** tentang pembelajaran pribadi dari proses penilaian diri.
+4. ** Tambahkan bagian refleksi pendek di akhir UTS-5** tentang pembelajaran pribadi dari proses penilaian diri.
