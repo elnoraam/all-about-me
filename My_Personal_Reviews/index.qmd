@@ -1,4 +1,5 @@
-## UTS-5 My Personal Reviews
+## UTS-5 My Personal Reviews (๑•̀ㅂ•́)و✧
+
 Berikut caraku melakukan review: menggunakan chatGPT, attach [file promt ChatGPT] (skor_uts.pdf), disertai perintah :"self assess UTS-1 sampai UTS-4" kemudian mengirim isi halaman dari setiap bagian. 
 
 ChatGPT melakukan self-assessment UTS-1 s.d. UTS-4 dari isi halaman yang halaman diberikan dan menilai berdasarkan rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: <a href="ringkasan.csv" download="UTS1-4_Ringkasan.csv" class="btn btn-primary">Download CSV Ringkasan</a>
