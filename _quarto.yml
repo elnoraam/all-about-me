@@ -2,7 +2,7 @@ project:
   type: book
   output-dir: docs
   resources:
-    - UAS-5_skor.xlsx
+    - My_Professional_Reviews/UAS-5_skor.xlsx
 
 book:
   title: "Rachel Elnora Mannuelle Sidanta"
