@@ -1,3 +1,25 @@
-# Summary
+# Summary of Contents ⋆˙⟡
 
-In summary, this book has no content whatsoever.
+- [UTS-1 — All About Me](All_About_me/index.qmd): Perkenalan diri, latar belakang, hobi/minat, nilai yang dipegang, dan gagasan yang sedang dipikirkan. Nada personal, reflektif, dan hangat, dengan fokus pada proses bertumbuh dan eksplorasi di HMIF ITB (Media Intelligence).
+
+- [UTS-2 — My Songs for You](My_Song_for_You/index.qmd): Karya lagu orisinal berjudul “Stay a Little While” terinspirasi dari Oasis — lengkap dengan lirik, komposisi, dan embed Spotify untuk nuansa yang ingin disampaikan.
+
+- [UTS-3 — My Stories for You](My_Stories_for_You/index.qmd): Cerita personal melewati masa sulit di awal kuliah, menemukan dukungan, dan bangkit. Menekankan makna kolaborasi, belajar, dan kehadiran orang terdekat sebagai kekuatan.
+
+- [UTS-4 — My SHAPE](My_Shapes/index.qmd): Peta diri terstruktur (Spiritual Gifts, Heart, Abilities, Personality, Experiences) beserta “Piagam Diri”, prinsip kerja, serta narasi ringkas–panjang untuk merangkum misi, kekuatan, dan arah aksi.
+
+- [UTS-5 — My Personal Reviews](My_Personal_Reviews/index.qmd): Metode self-assessment berbasis AI (ChatGPT) dengan rubrik UTS, hasil skor per kriteria, dan daftar prioritas perbaikan cepat. Menyertakan tautan unduhan ringkasan skor.
+
+- [UAS-1 — My Concepts](My_Concepts/index.qmd): Konsep pengentasan kemiskinan sebagai rekayasa sistem yang memulihkan agensi manusia melalui TISE (Hati–Pikiran–Tenaga). Menempatkan kemiskinan sebagai krisis koordinasi global, bukan sekadar kekurangan sumber daya.
+
+- [UAS-2 — My Opinions](My_Opinions/index.qmd): Opini tegas tentang pergeseran dari distribusi bantuan menuju pemberdayaan. Menempatkan kaum miskin sebagai “Protagonis-Penulis” dan membangun portofolio kemandirian melalui ko-kreasi nilai.
+
+- [UAS-3 — My Innovations](My_Innovations/index.qmd): Arsitektur inovasi “TISE-Poverty: Teater Kerja” dengan Stasion Nilai, Agen PUDAL (Perceive–Understand–Decide–Act–Learn), dan CORE Engine yang mengonversi Human Energon menjadi nilai ekonomi berkelanjutan.
+
+- [UAS-4 — My Knowledge](My_Knowledge/index.qmd): Pengetahuan baru yang menempatkan kemiskinan ekstrem sebagai kegagalan desain sistem sosial. Indikator keberhasilan bergeser ke peningkatan agensi dan keluarnya individu dari ambang USD 2,15/hari secara berkelanjutan.
+
+- [UAS-5 — My Professional Reviews](My_Professional_Reviews/index.qmd): Ringkasan dan tombol unduh skor profesional (XLSX) sebagai artefak evaluasi; melengkapi siklus UAS dengan bukti penilaian.
+
+- [References](references.qmd): Daftar pustaka yang digunakan dalam penyusunan karya.
+
+> Halaman ini merangkum isi utama dan menyediakan tautan cepat ke setiap bagian.
