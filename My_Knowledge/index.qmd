@@ -1,7 +1,10 @@
-## UAS-4 My Knowledge
+# UAS-4 My Knowledge
+**Pengetahuan Baru tentang Kemiskinan sebagai Masalah Rekayasa Sistem**
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+![My Knowledge](../My_Knowledge/4_My-Knowledge.png){width=950%}
+
+Mahakarya ini menghasilkan pengetahuan baru bahwa kemiskinan ekstrem adalah kegagalan desain sistem sosial, bukan kegagalan individu. Pengetahuan ini menuntut perubahan indikator keberhasilan. Keberhasilan tidak lagi diukur dari jumlah bantuan yang disalurkan, tetapi dari peningkatan agensi manusia.
+
+Indikator utamanya adalah kemampuan individu keluar secara stabil dari ambang USD 2,15 per hari, akses berkelanjutan terhadap pendidikan dan kesehatan, serta keterlibatan aktif dalam sistem ekonomi lokal. Dengan pendekatan ini, kemiskinan dipahami sebagai tantangan rekayasa yang dapat dirancang, diuji, dan diperbaiki.
+
+Mahakarya ini menegaskan satu hal. Jika rekayasa sistem mampu menyelaraskan hati manusia, pikiran teknologi, dan tenaga kolektif, maka kemiskinan ekstrem bukan takdir, melainkan masalah yang dapat diselesaikan.
