@@ -1,7 +1,7 @@
 # UAS-3 My Innovations ◝(ᵔᗜᵔ)◜
 **Inovasi TISE-Poverty: Teater Kerja Pengentasan Kemiskinan**
 
-![My Innovations](../My_Innovationss/3_My-Innovations.png){width=950%}
+![My Innovations](../My_Innovations/3_My-Innovations.png){width=950%}
 
 Inovasi utama saya adalah TISE-Poverty, sebuah arsitektur “Teater Kerja” yang dirancang khusus untuk pengentasan kemiskinan ekstrem. Teater kerja ini adalah ruang sosio-teknis tempat berbagai pemangku kepentingan berkolaborasi secara terstruktur.
 
